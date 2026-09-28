@@ -1,4 +1,4 @@
-import type { Student, Course, User } from "@/lib/types";
+import type { Student, Course, } from "@/lib/types";
 
 export const students: Student[] = [
   {
